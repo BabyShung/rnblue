@@ -1,8 +1,8 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
-    "version": "1.3.4",
+    "name": "rnblue",
+    "description": "My first ghost theme",
+    "demo": "https://www.babyshung.com",
+    "version": "1.0.0",
     "engines": {
         "ghost": ">=0.9.0 <1.0.0"
     },
@@ -12,9 +12,9 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Hao Zheng",
+        "email": "babyshung8@gmail.com",
+        "url": "https://www.babyshung.com"
     },
     "gpm": {
         "type": "theme",
@@ -24,13 +24,13 @@
         ]
     },
     "keywords": [
-        "ghost",
-        "theme"
+        "rnblue",
+        "Hao Zheng"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/BabyShung/rnblue"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors"
+    "bugs": "https://github.com/BabyShung/rnblue/issues",
+    "contributors": "https://github.com/BabyShung/rnblue/graphs/contributors"
 }
